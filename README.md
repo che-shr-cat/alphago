@@ -16,3 +16,5 @@ What is missing right now:
 * MCTS procedure
 * Data processing procedures (encode the game into a tensor)
 * The full proc that starts from a random state and incorporates a MCTS/update-NN to obtain better policies
+
+** Feel free to make pull-requests :) **
