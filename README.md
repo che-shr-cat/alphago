@@ -18,3 +18,10 @@ What is missing right now:
 * The full proc that starts from a random state and incorporates a MCTS/update-NN to obtain better policies
 
 *Feel free to make pull-requests :)*
+
+
+## INSTALL
+
+```
+pip install -r requirements.txt
+```
